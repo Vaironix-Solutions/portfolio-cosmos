@@ -9,7 +9,9 @@
 
 ## 🚀 Live Demo
 
-> Open `index.html` directly in your browser — no build tools or server required.
+🌐 **[https://vaironix-cosmos-portdolio.vercel.app/](https://vaironix-cosmos-portdolio.vercel.app/)**
+
+> Deployed on Vercel — no build tools or server required.
 
 ---
 
